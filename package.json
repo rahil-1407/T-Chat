@@ -1,5 +1,5 @@
 {
-  "name": "discuter",
+  "name": "tchat",
   "version": "1.0.0",
   "description": "Realtime Chatapp with rooms",
   "main": "server.js",
